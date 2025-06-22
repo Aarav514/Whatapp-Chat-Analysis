@@ -5,3 +5,5 @@ This project is a **Streamlit web app** that analyzes WhatsApp chat data and pro
 - WordCloud of most frequent words
 - Emoji analysis
 - Activity heatmap
+
+check out the deployed aap (https://whatapp-chat-analysis.streamlit.app/)
