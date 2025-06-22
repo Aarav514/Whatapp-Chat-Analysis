@@ -6,4 +6,4 @@ This project is a **Streamlit web app** that analyzes WhatsApp chat data and pro
 - Emoji analysis
 - Activity heatmap
 
-check out the deployed aap (https://whatapp-chat-analysis.streamlit.app/)
+check out the deployed aap (https://whatsapp-chat-analysis-1.streamlit.app/)
